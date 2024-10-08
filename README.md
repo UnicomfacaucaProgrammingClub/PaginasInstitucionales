@@ -31,14 +31,13 @@ como:
 Se ofrecerá acceso a una biblioteca en línea con materiales de estudio
 disponibles para estudiantes y docentes.
 
-7. Formulario de Inscripción para Nuevos Estudiantes:
+6. Formulario de Inscripción para Nuevos Estudiantes:
 Los estudiantes interesados en ingresar a la institución podrán llenar un
 formulario de inscripción digital para iniciar el proceso de matrícula.
 
-8. Integración del Departamento de Psicología:
+7. Integración del Departamento de Psicología:
 Los estudiantes podrán acceder a información sobre las sesiones a las que
 hayan asistido con el psicólogo de la institución.
-
 Para garantizar la privacidad, esta información solo estará disponible para
 los estudiantes registrados mediante un inicio de sesión.
 
@@ -61,7 +60,7 @@ Se incluirá un espacio donde estudiantes y docentes puedan intercambiar
 ideas, hacer preguntas y colaborar en proyectos, fomentando así una
 comunidad académica activa.
 
-13. Sección de Preguntas Frecuentes (FAQ):
+12. Sección de Preguntas Frecuentes (FAQ):
 Esta funcionalidad proporcionará respuestas a las preguntas comunes de
 estudiantes y padres, ayudando a resolver dudas sin necesidad de contactar
 directamente a la administración.

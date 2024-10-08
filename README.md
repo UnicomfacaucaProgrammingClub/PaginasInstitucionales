@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo ayudar a las instituciones que aún no cuentan
 página web, proporcionando una plataforma integral que ofrece diversas funcionalidades. A
 continuación, se presentan las características principales que incluirá la página.
 
-#Funcionalidades:
+Funcionalidades:
 
 1. Presentación Institucional:
 Se incluirá una sección dedicada a la presentación general de la institución,
